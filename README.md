@@ -1,35 +1,10 @@
-# tienda_mascotas Prueba para Kibernum/Talana.
+# Carrito para una tienda de Chocolates
 
-## Vídeo con la muestra en funcionamiento
-
-```
-https://www.youtube.com/watch?v=cfNkPY_qw6U
-```
-
-## Project setup, clonamos el proyecto
-
-```
-git clone https://gitlab.com/felipei.mancilla/tienda_mascotas.git
-```
-
+clonamos el proyecto
+git clone https://github.com/MaycolPGR-aduch/Chocolateria.git
 ## Vamos a la carpeta del proyecto
-
-```
 cd tienda_mascotas
-
-```
-
 ## Ejecutamos
-
-```
 npm install
-
-```
-
 ### Ejecutar
-
-```
-
 npm run serve
-
-```

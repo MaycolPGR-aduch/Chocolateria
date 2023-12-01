@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Chocolate clasico",
+      "dataBusqueda":1
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Bajo en calorias"
+    },
+    {
+      "id": 3,
+      "name": "dulces"
+    },
+    {
+      "id": 4,
+      "name": "Tartas"
+    }
+  ]
+  

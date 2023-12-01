@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Barras de Chocolate",
+      "photo": "../img/Cholocate-2.jpg",
+      "code": 100,
+      "price": 20,
+      "stock": 100,
+      "abstract": "Barras de chocolate de cacao con endulcorantes naturales",
+      "index": 1,
+      "category_id": 1,
+      "category":{
+                  "name": "Chocolate clasico",
+                  "id": 1
+      }
+    },
+    {
+        "id": 2,
+        "name": "Combo de dulces de chocolate",
+        "categoria_id": 1,
+        "photo": "../img/image2.jpg",
+        "code": 101,
+        "price": 100,
+        "stock": 50,
+        "abstract": "Combo de diversos productos con sabor chocolate, sixpack",
+        "index": 2,
+        "category": {
+          "name": "dulces",
+          "id": 3
+}
+      },
+      {
+        "id": 3,
+        "name": "Barras de Chocolate naturales",
+        "categoria_id": 1,
+        "photo": "../img/chocolate.webp",
+        "code": 102,
+        "price": 30,
+        "stock": 105,
+        "abstract": "Barras de chocolate de cacao con stevia, bajas de ne calorias",
+        "index": 3,
+        "category": {
+          "id": 2,
+          "name": "Chocolate Bajo en calorias"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Pastelillos de chocolate",
+        "categoria_id": 1,
+        "photo": "../img/chocolate2.jfif",
+        "code": 103,
+        "price": 12,
+        "stock": 200,
+        "abstract": "Pastelillos de chocolate, con manjar",
+        "index": 4,
+        "category": {
+          "id": 4,
+          "name": "Tartas"
+        }
+        },
+      {
+        "id": 5,
+        "name": "Dulces de choclate con grajeas",
+        "categoria_id": 1,
+        "photo": "../img/chocolate3.jpeg",
+        "code": 104,
+        "price": 22,
+        "stock": 70,
+        "abstract": "Dulces de chcoloate, sobre palillos cubiertos de grajeas de distintos colores y sabores",
+        "index": 5,
+        "category": {
+          "id": 3,
+          "name": "dulces"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Chocolate relleno de mani",
+        "categoria_id": 1,
+        "photo": "../img/chocolate4.jpg",
+        "code": 105,
+        "price": 25,
+        "stock": 60,
+        "abstract": "Chocolate relleno de mani con cubierta de chocolate, Tetrapack x 5",
+        "index": 6,
+        "category": {
+          "id": 1,
+          "name": "Chocolate clasico"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Dulces de chocolare rellenos de crema",
+        "categoria_id": 1,
+        "photo": "../img/chocolate5.jpg",
+        "code": 106,
+        "price": 35,
+        "stock": 50,
+        "abstract": "Mix variado de Dulces de chocolare rellenos de crema, de distintos colores y sabores",
+        "index": 7,
+        "category": {
+          "id": 3,
+          "name": "dulces"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Mix de tabletas de chocolate",
+        "categoria_id": 1,
+        "photo": "../img/chocolate6.jfif",
+        "code": 107,
+        "price": 18,
+        "stock": 140,
+        "abstract": "Mix de tabletas de chocolate negro, de cacao, chocolate blanco y de mani",
+        "index": 8,
+        "category": {
+          "id": 1,
+          "name": "Chocolate clasico"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Dulces de leche de choclate",
+        "categoria_id": 1,
+        "photo": "../img/chocolate7.jpg",
+        "code": 108,
+        "price": 30,
+        "stock": 45,
+        "abstract": "Dulces de leche de choclate combo x 10",
+        "index": 9,
+        "category": {
+          "id": 2,
+          "name": "Chocolate Bajo en calorias"
+          }
+      },
+      {
+        "id": 10,
+        "name": "Tarta de chocolate",
+        "categoria_id": 1,
+        "photo": "../img/chocolate8.jfif",
+        "code": 109,
+        "price": 50,
+        "stock": 120,
+        "abstract": "Tarta de chocolate familiar",
+        "index": 10,
+        "category": {
+          "id": 4,
+          "name": "Tartas"
+        }
+      }
+    
+  ]

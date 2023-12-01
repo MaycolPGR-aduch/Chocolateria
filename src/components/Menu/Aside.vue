@@ -9,7 +9,7 @@
     <ul>
       <li>
         <router-link :to="{ name: 'Home' }">
-          <img src="@/assets/logo.jpeg" alt="Logo Fazt" class="logo"
+          <img src="@/assets/logoChoco.jpg" alt="Logo Fazt" class="logo"
         /></router-link>
       </li>
       <li>

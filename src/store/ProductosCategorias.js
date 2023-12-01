@@ -2,9 +2,9 @@ const ProductosCategorias = {
   namespaced: true,
   state: {
     API: {
-      baseURL: "http://sva.talana.com:8000/api/",
-      categorias: "product-category/?format=json",
-      productos: "product/?format=json",
+      baseURL: "/",
+      categorias: "data/categorias.json",
+      productos: "data/productos.json",
     },
     categoriasState: {},
     productosStare: {},

@@ -15,6 +15,9 @@
           <div class="col-12">
             <Content></Content>
           </div>
+          <div class="col-12">
+            <Footer></Footer>
+          </div>
         </div>
       </div>
     </div>
@@ -26,12 +29,14 @@
 import Aside from "@/components/Menu/Aside.vue";
 import Header from "@/components/Menu/Header.vue";
 import Content from "@/views/Content.vue";
+import Footer from "@/views/Footer.vue";
 export default {
   name: "Home",
   components: {
     Aside,
     Header,
     Content,
+    Footer
   },
 };
 </script>

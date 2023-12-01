@@ -65,9 +65,11 @@ export default {
           data.push(this.getAllProductos[i]);
         } else if (
           // Muestra plos productos según la busqueda
-          this.getAllProductos[i].category.name
-            .toLowerCase()
-            .includes(this.$route.params.name.toLowerCase()) ||
+          (this.getAllProductos[i].category &&
+            this.getAllProductos[i].category.name &&
+            this.getAllProductos[i].category.name
+              .toLowerCase()
+              .includes(this.$route.params.name.toLowerCase())) ||
           this.getAllProductos[i].name
             .toLowerCase()
             .includes(this.$route.params.name.toLowerCase())
@@ -100,3 +102,6 @@ export default {
 </script>
 
 <style lang="css" scoped></style>
+
+
+    
